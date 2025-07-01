@@ -2,7 +2,7 @@
 
 A modern, responsive movie discovery and rating application built with React, TypeScript, and Tailwind CSS.
 
-![MovieMuse Screenshot](https://via.placeholder.com/800x400/1A1F2C/9b87f5?text=MovieMuse+Screenshot)
+![MovieMuse Screenshot](/movieratingapp.png)
 
 ## ✨ Features
 
